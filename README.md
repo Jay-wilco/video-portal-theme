@@ -1,3 +1,3 @@
 # video-portal-theme
 
-This repository is for the WP custom files.
+This repository contains the WP custom files for the video portal theme.
